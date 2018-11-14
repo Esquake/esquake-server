@@ -1,2 +1,17 @@
-# esquake-server
-[서버] 지진 발생했을 때, 알림과 동시에 현재 위치를 기준으로 가장 가까운 대피소로 안내하는 서비스입니다.
+# [ESQUAKE](https://github.com/Esquake/esquake)'s server repository
+
+
+## Server Environment
+
+```
+raspberry Pi 3
+Raspbian
+```
+
+## Usage Guide
+
+### earthquake data crawler
+```
+pip install xmltodict
+pip install firebase-admin
+```
