@@ -1,4 +1,9 @@
 serviceAccountKey.json
 
-# temporary file to save the history of latest earthquake
+# temporary file
 latest_earthquake.txt
+errorlog.txt
+
+# API Keys (oneSignal, openAPI, telegram)
+keys.json
+__pycache__/
