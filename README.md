@@ -17,9 +17,6 @@ you need
 > telegram key   
 > onesignal key   
 
-Initialize on your own server.
-To use the Firebase Admin SDK on your own server, use [a service account.](https://cloud.google.com/compute/docs/access/create-enable-service-accounts-for-instances)
-
 ### example key.json 
 ```
 {
