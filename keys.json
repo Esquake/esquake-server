@@ -1,0 +1,13 @@
+{
+  "openAPI": {
+    "key" : "download your key"
+  },
+  "oneSignal": {
+    "Authorization" : "download your key"
+    "app_id" : "download your key"
+  },
+  "telegram": {
+    "key" : "download your key"
+    "chat_id" : "download your key"
+  }
+}
